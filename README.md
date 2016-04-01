@@ -20,7 +20,7 @@ Install the package using devtools:
 
 ```R
 # install.packages('devtools')
-devtools::install_github('uken/testr')
+devtools::install_github('ayakubovich/testr')
 library(testr)
 ?testr
 ```
